@@ -9,6 +9,14 @@
 <h2 id='personal'>Personal Information</h2>
 <h3>Name</h3>
 Ahmed Seif
+<h3>Interested in</h3>
+<ul>
+  <li>Data Science</li>
+  <li>Machine Learning</li>
+  <li>Web Development</li>
+  <li>Android Development</li>
+  </ul>
+
 <h3>Hobbies</h3>
 <ul>
   <li>Coding &check;</li>
