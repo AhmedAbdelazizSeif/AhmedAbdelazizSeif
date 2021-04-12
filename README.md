@@ -1,9 +1,9 @@
 <h2>Table of Contents</h2>
 <ol>
-  <li><a href="personal">Personal Information</a></li>
-  <li><a href="education">Education</a></li>
-  <li><a href="cert">Certifications</a></li>
-  <li><a href="con_info">Contact info</a></li>
+  <li><a href="#personal">Personal Information</a></li>
+  <li><a href="#education">Education</a></li>
+  <li><a href="#cert">Certifications</a></li>
+  <li><a href="#con_info">Contact info</a></li>
   </ol>
 
 <h2 id='personal'>Personal Information</h2>
