@@ -1,46 +1,89 @@
-<h2>Table of Contents</h2>
-<ol>
-  <li><a href="#personal">Personal Information</a></li>
-  <li><a href="#education">Education</a></li>
-  <li><a href="#cert">Certifications</a></li>
-  <li><a href="#con_info">Contact info</a></li>
-  </ol>
+# Ahmed Abdelaziz Seif 👨‍💻  
+**Data Scientist | Machine Learning Expert | Backend Developer | Python Enthusiast**  
+_Alexandria, Egypt | Open to Relocation | Available for Remote Work_
 
-<h2 id='personal'>Personal Information</h2>
-<h3>Name</h3>
-Ahmed Seif
-<h3>Interested in</h3>
-<ul>
-  <li>Data Science</li>
-  <li>Machine Learning</li>
-  <li>Web Development</li>
-  <li>Android Development</li>
-  </ul>
+---
 
-<h3>Hobbies</h3>
-<ul>
-  <li>Coding &check;</li>
-  <li>Learning</li>
-  <li>Swimming</li>
-  <li>Soccer</li>
-  </ul>
-<h2 id='education'>Education</h2>
-<h3>School</h3>
-Graduated from Victoria College in 2018
-<h3>College</h3>
-Student at Faculty of Sceince at Alexandria University
-<h4>Department</h4>
-Statistics/Computer Science 
-<h2 id='cert'>Certifications</h2>
-<ol>
-  <li><a href="https://graduation-api.udacity.com/api/certificate/RUGHNCFE/download">Data Analysis by Udacity</a></li>
-  </ol>
-<h2 id='con_info'>Contact Info</h3><br>
-<a href=”tel:+201203021321″>+20 120 302 131</a><br>
-<a href='https://www.linkedin.com/in/ahmedabdelazizseif/'>My Linkedin Account</a>
+## 🚀 About Me  
+Hi! I'm Ahmed Abdelaziz Seif, a dedicated **Data Scientist** and **Python Developer** passionate about solving complex problems using data-driven solutions. With expertise in machine learning, backend development, and data visualization, I thrive on creating innovative applications that drive efficiency and growth.
 
+📍 Currently, I work as a **Data Analyst at Tay Group**, where I lead efforts in automating processes, forecasting trends, and building minimal web applications for data management.
 
-<!---
-AhmedAbdelazizSeif/AhmedAbdelazizSeif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠️ Core Skills  
+- **Programming Languages**: Python, SQL, C++, Bash  
+- **Data Science Tools**: TensorFlow, Scikit-learn, Pandas, PyTorch, Matplotlib  
+- **Web Development**: Django, Node.js, Express  
+- **Database Technologies**: RDBMS, NoSQL, ETL Processes  
+- **Cloud Platforms**: AWS, Azure, Docker, Kubernetes  
+- **Soft Skills**: Communication, Collaboration, Presentation
+
+---
+
+## 📚 Education  
+- **Master’s in Statistics and Computer Science** – Alexandria University (2024 - Present)  
+- **Bachelor’s in Statistics and Computer Science** – Alexandria University (2018 - 2024)
+
+---
+
+## 🔍 Certifications  
+- **IBM Data Science Professional Certificate** (2023)  
+- **Data Scientist Associate – DataCamp** (2023)  
+- **Udacity Advanced Data Analysis Nanodegree** (2021)
+
+---
+
+## 💻 Professional Experience  
+
+### **Data Analyst | Tay Group (Osama ElTayeby Pharmacies)**  
+**May 2024 - Present**  
+- Automated inventory reporting, saving 40+ hours weekly  
+- Forecasted monthly sales targets, improving inventory accuracy by 130%  
+- Developed minimal web applications for streamlined departmental operations  
+
+### **Freelance Data Scientist**  
+**Jan 2021 - Present**  
+- Built predictive models and delivered actionable insights for clients  
+- Designed algorithms to forecast sales, identify trends, and enhance efficiency  
+
+### **Backend Web Developer | IBM Egypt**  
+**Aug 2021 - Dec 2021**  
+- Developed scalable web services using Node.js and Express  
+- Improved app performance and integrated new features  
+
+---
+
+## 📊 Top Projects  
+1. **KYC Process Enhancement**: Streamlined operations for a leading bank, reducing errors by 30%.  
+2. **Smart Mirror**: AR-based smart mirror for real-time virtual try-ons.  
+3. **Scaniie IoT Kitchen System**: Enhanced kitchen efficiency by 25% using machine learning.  
+4. **Forex Prediction System**: Achieved 85% accuracy in EUR/USD forecasting.  
+5. **ALS BlinkGuard**: IoT solution for ALS patient care using Python and OpenCV.  
+
+---
+
+## 🌟 Volunteer Work  
+- **Organizing Specialist** – Roborave International Competition (2023)  
+- **Public Relations Specialist** – Safwa Science (2019 - 2022)  
+
+---
+
+## 🌴 Hobbies  
+- Coding challenges and competitions  
+- Swimming and soccer  
+- Exploring new technologies and teaching  
+
+---
+
+## 📞 Contact Me  
+- 📧 [ahmed.am.seif@gmail.com](mailto:ahmed.am.seif@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/AhmedAbdelazizSeif)  
+- 💻 [GitHub](https://github.com/AhmedAbdelazizSeif)  
+
+---
+
+## 🔖 Keywords for SEO  
+Data Scientist, Python Developer, Machine Learning Expert, Backend Developer, Data Visualization, Predictive Analytics, Alexandria University, Freelance Data Scientist, KYC Process Optimization, Smart Mirror, IoT Kitchen System, Forex Prediction, ALS BlinkGuard, TensorFlow, Scikit-learn, AWS Developer, IBM Web Developer.
+
+**🔍 Let’s Collaborate and Build Something Amazing!**  
