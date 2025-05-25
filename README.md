@@ -1,6 +1,6 @@
 # Ahmed Abdelaziz Seif 👨‍💻  
 **Data Scientist | Machine Learning Expert | Backend Developer | Python Enthusiast**  
-_Alexandria, Egypt | Open to Relocation | Available for Remote Work_
+_From Alexandria, Egypt | Open to Relocation (Currently in Cairo, Egypt) | Available for Remote Work_
 
 ---
 
