@@ -25,10 +25,10 @@ I live in the part of data work nobody puts on a slide: pulling records out of a
   <img src="https://skillicons.dev/icons?i=python,postgres,django,docker,git,github,aws,heroku,linux,bash&perline=10" alt="Tech stack"/>
 </p>
 
-**Data and BI:** Power BI (semantic models, DirectQuery), SQL, PostgreSQL
-**ERP and integrations:** Odoo (XML-RPC), REST API clients, shipping and logistics APIs
-**Python:** pandas, scikit-learn, Django, Selenium, httpx, pydantic
-**AI:** sentiment analysis, forecasting, retrieval-augmented assistants, MCP servers
+- **Data and BI:** Power BI (semantic models, DirectQuery), SQL, PostgreSQL
+- **ERP and integrations:** Odoo (XML-RPC), REST API clients, shipping and logistics APIs
+- **Python:** pandas, scikit-learn, Django, Selenium, httpx, pydantic
+- **AI:** sentiment analysis, forecasting, retrieval-augmented assistants, MCP servers
 
 ## 🚀 Things I've built
 
